@@ -1,0 +1,5 @@
+body { background:#f8fafc; color:#0f172a; font-family: Inter, system-ui, Arial, sans-serif; }
+.card { border-radius:10px; box-shadow: 0 6px 18px rgba(15,23,42,0.06); }
+.display-6 { font-weight:700; color:#036; }
+.list-group-item { display:flex; justify-content:space-between; align-items:center; }
+.small-btn { padding: .2rem .5rem; font-size: .8rem; }
